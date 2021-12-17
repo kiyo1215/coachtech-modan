@@ -1,0 +1,21 @@
+body {
+  font-family: 'Nunito', sans-serif;
+}
+
+header {
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+.logo {
+  height: 20px;
+  width: 20px;
+  background-color: white;
+}
+.nav a {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+}
